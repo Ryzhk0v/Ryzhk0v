@@ -1,4 +1,4 @@
-## 👋 This is Øxfordshire!
+## 👋 This is @Ryzhkov Kurmanbek!
 
 [![][github-follower-shield]][github-follower-stats]
 [![][informatn-x-shield]][informatn-x-link]
@@ -9,7 +9,7 @@
 and inspiring. Feel free to explore and share your thoughts!
 Enjoy your stay! ;)</sup>
 
-> Hi, I'm oxfshire (a.k.a Ninh), ...
+> Hi, I'm Kurmanbek (a.k.a hoangthaininh), ...
 
 ### 🔨 Skills
 
@@ -25,13 +25,13 @@ Enjoy your stay! ;)</sup>
 
 ### 🍏 Contribution
 
-[![oxfshire's GitHub | Stats][contribution-stats-shield]][contribution-stats-link]
+[![Ryzhkov's GitHub | Stats][contribution-stats-shield]][contribution-stats-link]
 
 <details>
   <summary><kbd>Star History</kbd></summary>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=oxfshire%2Fyggw&theme=light&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=oxfshire%2Fyggw&type=Date">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Ryzhk0v%2Fyggw&theme=light&type=Date">
+    <img width="100%" src="https://api.star-history.com/svg?repos=Ryzhk0v%2Fyggw&type=Date">
   </picture>
 </details>
 
@@ -39,7 +39,7 @@ Enjoy your stay! ;)</sup>
 
 <!-- SNAKE GROUP -->
 
-[github-contribution-grid-snake-shield]: https://raw.githubusercontent.com/oxfshire/oxfshire/output/github-contribution-grid-snake-dark.svg
+[github-contribution-grid-snake-shield]: https://raw.githubusercontent.com/Ryzhk0v/Ryzhk0v/output/github-contribution-grid-snake-dark.svg
 [github-contribution-grid-snake-link]: https://github.com/Platane/snk
 
 <!-- SKILLICONS SHIELDS GROUP -->
@@ -49,19 +49,19 @@ Enjoy your stay! ;)</sup>
 
 <!-- CONTRIBUTION GROUP -->
 
-[contribution-stats-shield]: https://stats.quira.sh/oxfshire/github?theme=dark
-[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=oxfshire
+[contribution-stats-shield]: https://stats.quira.sh/Ryzhk0v/github?theme=dark
+[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=Ryzhk0v
 
 <!-- SHIELDS GROUP -->
 
-[github-follower-shield]: https://img.shields.io/github/followers/oxfshire?style=flat-square&logo=github&labelColor=black&color=ffb155
+[github-follower-shield]: https://img.shields.io/github/followers/Ryzhk0v?style=flat-square&logo=github&labelColor=black&color=ffb155
 [informatn-x-shield]: https://img.shields.io/badge/-Walpurgis-black?labelColor=black&logo=x&logoColor=white&style=flat-square
 [informatn-telegram-shield]: https://img.shields.io/badge/-Yggdrasil%20Walps-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
 [informatn-email-shield]: https://img.shields.io/badge/-hoangthaininh.hgn@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
 
 <!-- LINK BUTTONS GROUP -->
 
-[github-follower-stats]: https://github.com/oxfshire
+[github-follower-stats]: https://github.com/Ryzhk0v
 [informatn-x-link]: https://x.com/louiswalpurgis
 [informatn-telegram-link]: https://t.me/louiswalpurgis
 [informatn-email-address]: mailto:hoangthaininh.hgn@gmail.com
